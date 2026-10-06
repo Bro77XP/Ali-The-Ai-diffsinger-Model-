@@ -16,7 +16,7 @@ Rvc Voice model took around 8 months to make
 
 Additional voice Data -- https://github.com/lottev1991/Project-AIdol-Public-English-Dataset
 
-quick Answer to something: The only part of this Really using ai is On the dataset i labeled not the additional data as that was mainly used so the voice wouldn't Sound bad since i didn't have much data labeled (20 minutes) 
+oh also The only part of this Really using ai is On the dataset i labeled (with my actual voice) not the additional data as that was mainly used for extra labeling data so the voice wouldn't Sound bad since I didn't have much data labeled (20 minutes) which is a huge amount btw
 
  Anyways this was Trained on amd port of diffsinger <img width="1266" height="1150" alt="Screenshot 2026-08-21 120258" src="https://github.com/user-attachments/assets/f9365c27-87bd-4c52-b1cc-ccfcaf15730c" />
 
