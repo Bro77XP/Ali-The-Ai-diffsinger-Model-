@@ -14,7 +14,7 @@ Rvc Voice model took around 8 months to make
 
 (Also the rvc is trained Off my voice) 
 
-Additional voice Data -- https://github.com/lottev1991/Project-AIdol-Public-English-Dataset
+Additional voice Data (for V3) -- https://github.com/lottev1991/Project-AIdol-Public-English-Dataset
 
 oh also The only part of this Really using ai is On the dataset i labeled (with my actual voice) not the additional data as that was mainly used for extra labeling data so the voice wouldn't Sound bad since I didn't have much data labeled (20 minutes) which is a huge amount btw
 
