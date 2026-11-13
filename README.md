@@ -3,7 +3,7 @@ Ali The ai Diffsinger Archive for in case Something happens to discord versions 
 
 ---
 
-This Model Uses Rvc For finetuning The vocals Which gives it a really unique Voice The V1 is bad mainly because i'm not only in middle of labeling v2 but also uses Kanpai as A vocal Base (ethically since it is my voice and all vocal data is heavily Trained and fined by only me) so don't be rude about this model as it is a starting point model
+This Model Uses Rvc For finetuning The vocals  which is higher pitched Which gives it a really unique Voice The V1 is bad mainly because i'm not only in middle of labeling v2 but also uses Kanpai as A vocal Base (ethically since it is my voice and all vocal data is heavily Trained and fined by only me) so don't be rude about this model as it is a starting point model
 
 Stuff:
 20-29 minutes of labeled data for V1
