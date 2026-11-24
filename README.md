@@ -15,7 +15,7 @@ Rvc Voice model took around 8 months to make
 (Also the rvc is trained Off my voice) 
 
 Additional voice Data (for V3) -- https://github.com/lottev1991/Project-AIdol-Public-English-Dataset (no rvc used on this dataset Only The dataset with my actual own Vocals and labeling data NOT this one) 
-btw the readme in the frontpage is kinda vague for some reason but basically, It's not Okay use Use rvc ON it's actual dataset but it should be okay to use it alongside a Dataset that uses rvc and or own labeled data and singing that uses rvc) (as long as additional data is not edited with rvc)
+btw the readme in the frontpage is kinda vague for some reason but basically, It's not Okay use Use rvc ON it's actual dataset but it should be okay to use it alongside a Dataset that uses rvc and or own labeled data and singing that uses rvc) (as long as additional data is not edited with rvc (RVC-ing over the corpus for the dataset for training DiffSinger banks is what is banned.)
 
 oh also The only part of this Really using ai is On the dataset i labeled aka Kanpai (with my actual voice) not the additional data as that was mainly used for extra labeling data so the voice wouldn't Sound bad since I didn't have much data labeled (20 minutes) which is a huge amount btw
  <img width="1266" height="1150" alt="Screenshot 2026-08-21 120258" src="https://github.com/user-attachments/assets/f9365c27-87bd-4c52-b1cc-ccfcaf15730c" /> 
